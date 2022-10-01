@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>Tesla_to_try_new</finalName>
 		
 		<plugins>
 			<plugin>
